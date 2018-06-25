@@ -12,6 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="actuator" target="1.8" />
+      <module name="actuator-docs" target="1.8" />
       <module name="actuator-hateoas" target="1.8" />
     </bytecodeTargetLevel>
   </component>
